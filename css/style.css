@@ -314,7 +314,7 @@ header {
       padding: 7px;
       border: 1px solid #000;
       display: block;
-      text-align: center;
+      text-align: left;
       background: #000; }
       header .colorlib-navbar-brand .colorlib-logo span {
         display: block;
