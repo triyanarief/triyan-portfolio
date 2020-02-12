@@ -98,7 +98,7 @@
 		}
 	};
 
-	// Owl Carousel
+	// Owl CarouselS
 	var owlCarouselFeatureSlide = function() {
 		var owl = $('.owl-carousel1');
 		owl.owlCarousel({
