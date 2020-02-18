@@ -4,7 +4,7 @@
 
 
 
-	// iPad and iPod detectionss	
+	// iPad and iPod detections	
 	var isiPad = function(){
 		return (navigator.platform.indexOf("iPad") != -1);
 	};
@@ -163,7 +163,7 @@
 	
 
 
-	// Document on load.
+	// Document on loads
 	$(function(){
 		fullHeight();
 		burgerMenu();
