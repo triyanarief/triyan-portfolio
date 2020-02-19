@@ -163,7 +163,7 @@
 	
 
 
-	// Document on loads
+	// Document on loadss
 	$(function(){
 		fullHeight();
 		burgerMenu();
